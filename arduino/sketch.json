@@ -1,6 +1,0 @@
-{
-  "cpu": {
-    "fqbn": "STM32:stm32:Nucleo_144:pnum=NUCLEO_H743ZI",
-    "port": ""
-  }
-}
