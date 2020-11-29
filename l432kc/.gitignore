@@ -1,0 +1,6 @@
+/Core
+/Drivers
+.mxproject
+Makefile
+startup_stm32l432xx.s
+STM32L432KCUx_FLASH.ld
