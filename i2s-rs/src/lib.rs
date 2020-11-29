@@ -4,7 +4,8 @@ use core::sync::atomic::{AtomicUsize, Ordering};
 
 use defmt_rtt as _; // global logger
 use panic_probe as _;
-use stm32l4xx_hal as _; // memory layout
+//use stm32l4xx_hal as _; // memory layout
+use stm32l4 as _;
 
 #[defmt::timestamp]
 fn timestamp() -> u64 {
